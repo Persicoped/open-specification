@@ -1,2 +1,3 @@
 # open-specification
-Open sequence specification
+
+Open Sequence Specification draft.
