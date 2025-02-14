@@ -47,6 +47,8 @@ OpenSequence is an open specification for defining sequential workflow messages.
         - Requires: feedback
         - Note: Only allowed if result was "failed"
 
+### `input fields`
+
 ### `estimates`
 - **Description**: Projected resource requirements.
 - **Purpose**: Aids in resource allocation and planning.
